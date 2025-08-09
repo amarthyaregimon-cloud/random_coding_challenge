@@ -1,20 +1,21 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Random Coding Challenge 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: New here
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Amarthya Regimon Joseph - College of Engineering and Management,Punnapra
+- Member 2: Athira Raj - College of Engineering and Management Punnapra
+- 
 
 ### Project Description
-[2-3 lines about what your project does]
+I've created an extended dataset with 22 coding challenges total (your original 2 plus 20 new ones). 
+The challenges progress from basic to intermediate difficulty
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -25,10 +26,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript
+- no framework
+- none
+- Visual Studio Code (recommended) - With JavaScript/HTML extensions
 
 For Hardware:
 - [List main components]
@@ -38,10 +39,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+live server
 
 # Run
-[commands]
+web serrver
 
 ### Project Documentation
 For Software:
@@ -77,16 +78,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+(https://drive.google.com/file/d/1iI8cxB89sGp2EKMx7JUlvooxYUU3dbvQ/view?usp=sharing)
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Athira Raj: Clean, professional UI design
+- Amarthya Regimon Joseph: Visual feedback system (green/red indicators)
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
