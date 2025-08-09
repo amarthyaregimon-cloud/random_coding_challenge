@@ -46,12 +46,12 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![alt text](<Screenshot 1.png>)
+#Screenshots (Add at least 3)
+<img width="1920" height="1020" alt="Screenshot 1" src="https://github.com/user-attachments/assets/010d7552-da58-4010-96eb-625aa22501f6" />
+<img width="1920" height="1020" alt="Screenshot 2" src="https://github.com/user-attachments/assets/e375af8f-0af4-4779-920f-f0bf5cf05ee6" />
+<img width="1920" height="1020" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e91a8462-d632-47d4-9b1b-39f6bd2c0420" />
 
-![alt text](<Screenshot 2.png>)*
 
-![alt text](<Screenshot 3.png>)
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
